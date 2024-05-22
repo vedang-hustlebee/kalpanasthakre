@@ -1,0 +1,25 @@
+{
+  "name": "kalpanasthakre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -p 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedang-hustlebee/kalpanasthakre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedang-hustlebee/kalpanasthakre/issues"
+  },
+  "homepage": "https://github.com/vedang-hustlebee/kalpanasthakre#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "serve": "^14.2.3"
+  }
+}
